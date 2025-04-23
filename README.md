@@ -23,7 +23,7 @@
         
 
 **Project:**  
-✅ Build a livestreaming admin channel for LXScore
+✅ Build a LXScore's List Match
 
 ----------
 
@@ -51,7 +51,7 @@
     
 
 **Project:**  
-✅ Build a LXScore List Match
+✅ Build a LXScore's Admin Channel for Livestreaming
 
 ----------
 
